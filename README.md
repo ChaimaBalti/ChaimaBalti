@@ -1,7 +1,7 @@
 
 
 <h3 align="center"> Hi! I'm Chaima Balti <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXUxaTVkYXBtem1jcWszcWhha3VmNXMwbm1qMG5hZTNxZWo5dHBpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dbWVRCrTCoXJy8MzhE/giphy.gif" width="22px" alt="hi"><br>
-Applied Mathematics Engineering Student            
+Applied Mathematics Engineer            
   
 _Modeling And Data Science_ </h3>
 
